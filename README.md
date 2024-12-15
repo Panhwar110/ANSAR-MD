@@ -1,13 +1,9 @@
----------
-
-### <br>  ❖ SILENT-SOBX-MD ❖
+### <br>  ❖ ANSAR-MD ❖
 🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY SILENTLOVER 432`** 🔰
 
-----------
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
--------
 
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+SOBX+-+MD+WHATSAPP+BOT`" alt="">
