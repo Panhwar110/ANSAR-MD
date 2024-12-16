@@ -28,7 +28,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['923471728690']
+const ownerNumber = ['923702587522']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -48,7 +48,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING DROVE-MD BOT🧬...");
+console.log("CONNECTING ANSAR-MD BOT🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -79,25 +79,25 @@ console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
 console.log('DROVE-MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
-*[ •  DROVE-MD - STARTED‎ • ]*
+*[ •  ANSAR-MD - STARTED‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *_Congratulations Your Bot Active Successfully_*
 *│  ◦*
 *│  ◦* *❁ ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ❁*
 *│  ◦*
-*│  ◦* *https://whatsapp.com/channel/0029Vank3vaLikg5ldoNdd0U*
+*│  ◦* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
 *╰┈───────────────•*
 *[ •  B O T  - R E P O ‎ • ]*
 *╭┈───────────────•*
-*│✫➠ - 🌐URL:* *https://github.com/FarhanAli690/DROVE-MD*
+*│✫➠ - 🌐URL:* *https://github.com/Panhwar110/ANSAR-MD*
 *╰┈───────────────•*
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: [${prefix}]*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ WALK-DROVE
+> © POWERED BY ANSAR-MD
 *•────────────•⟢*
 `;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/4faifm.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.imghippo.com/files/neA8167vE.jpg` }, caption: up })
 
 }
 })
@@ -198,20 +198,20 @@ conn.ev.on('messages.upsert', async (mek) => {
 
         
 //================ownerreact==============
-if(senderNumber.includes("923471728690")){
+if(senderNumber.includes("923702587522")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("923072380380")){
+if(senderNumber.includes("923108897447")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("3197010587171")){
+if(senderNumber.includes("923143504841")){
 if(isReact) return
 m.react("🦋")
    }
 
-if(senderNumber.includes("923152380380")){
+if(senderNumber.includes("923251340633")){
 if(isReact) return
 m.react("🎀")
    }
@@ -298,7 +298,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, DROVE-MD STARTED ✅");
+res.send("HEY, ANSAR-MD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
