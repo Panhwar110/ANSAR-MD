@@ -23,12 +23,12 @@
 ---
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SUHAIL-XMD}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{ANSAR-MD}/count.svg" alt="Panhwar110 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Panhwar110}/count.svg" /></p>
 
 
-  <p align="center"> Meet Suhail-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet ANSAR-MD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. ANSAR-MD whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/fork"><img title="SUHAIL-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Panhwar110/ANSAR-MD/fork"><img title="ANSAR-MD" src="https://img.shields.io/badge/FORK-ANSAR-MD?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
