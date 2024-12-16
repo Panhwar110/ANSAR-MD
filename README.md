@@ -4,11 +4,11 @@
 
 
   <p align="center">
-<a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/SUHAIL-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Panhwar110/followers"><img title="Followers" src="https://img.shields.io/github/followers/Panhwar110?color=blue&style=flat-square"></a>
+<a href="https://github.com/Panhwar110/ANSAR-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Panhwar110/ANSAR-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Panhwar110/ANSAR-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Panhwar110/ANSAR-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Panhwar110/ANSAR-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Panhwar110/ANSAR-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/Panhwar110/ANSAR-MD /graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
