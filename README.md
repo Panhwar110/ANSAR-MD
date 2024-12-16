@@ -154,13 +154,12 @@
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </div>
 
-### 💠 [`𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍𝙎👻`]
-- 🪄 𝙼𝙰𝙵𝙸𝙰-𝙼𝙳 𝙱𝚈
-- 🪄 𝙼𝙰𝙵𝙸𝙰-𝙰𝙳𝙴𝙴𝙻💯
-- 🪄 👑👑👑👑👑👑
-- 🪄𝙰𝚆𝙰𝙽-𝚉𝙰𝙳𝙰 𝙺𝙸𝙽𝙶👿
-- 🪄👑👑👑👑👑👑👑
-- 🪄 𝚃𝙷𝙰𝙽𝙺𝚂 𝙱𝙾𝚈𝚂 𝚄𝚂𝙴 𝙼𝚈 𝙱𝙾𝚃
+### 💠 [`𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍𝙎❤️‍🩹`]
+### - MADE BY MR ANSAR💖
+### - 👑👑👑👑👑👑👑👑
+### - BOT NAME ANSAR-MD💖
+### - 👑👑👑👑👑👑👑👑
+### - Thanks public use my bot👑
 
 <div align="left">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
