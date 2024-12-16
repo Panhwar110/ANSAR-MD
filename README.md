@@ -1,10 +1,8 @@
-![MAFIA-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+ASSALAMUALAIKUM+❣️+FRIENDS+;😍+WELCOME+TO+MAFIA+MD+BOT+💙;🔥+THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!;🎉+ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!;💡+FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!;✨+LET'S+GET+STARTED+MAFIA-MD!)
-
-
+![ANSAR-MD]
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
     <a href="" style="text-decoration: none;">
         <img 
-            alt="MAFIA-MD" 
+            alt="ANSAR-MD" 
             width="600" 
             height="500" 
             src="https://qu.ax/XMmwr.jpg" 
@@ -13,7 +11,7 @@
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
         >
     </a>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝘼𝙇𝙇 𝙁𝙍𝙄𝙀𝙉𝘿𝙎 𝙈𝘼𝙁𝙄𝘼-𝙈𝘿 𝘽𝙊𝙏</p>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">JAZAKALLAH ALL FRIENDS ANSAR-MD BOT</p>
 </div>
 
 
