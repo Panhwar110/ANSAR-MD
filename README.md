@@ -147,19 +147,12 @@
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </div>
 
-### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Click here](https://github.com/PRINCE-GDS/PRINXE-MD/blob/main/LICENSE)
-
-<div align="left">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</div>
-
-### 💠 [`𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍𝙎❤️‍🩹`]
-### - MADE BY MR ANSAR💖
-### - 👑👑👑👑👑👑👑👑
-### - BOT NAME ANSAR-MD💖
-### - 👑👑👑👑👑👑👑👑
-### - Thanks public use my bot👑
+### 👑 [`𝘽𝙊𝙏 𝙊𝙒𝙉𝙀𝙍𝙎`] 👑
+###  MADE BY MR ANSAR💖 ###
+###  👑👑👑👑👑👑👑👑 ###
+###  BOT NAME ANSAR-MD💖 ###
+###  👑👑👑👑👑👑👑👑 ###
+###  Thanks public use my bot👑 ###
 
 <div align="left">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
