@@ -31,13 +31,13 @@ const prefix = config.PREFIX
 const ownerNumber = ['923702587522']
 
 //===================SESSION-AUTH============================
-if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
+if (!fs.existsSync(__dirname + '/connection/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
 const sessdata = global.SESSION_ID.replace(/UMAR=/, "");
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
-fs.writeFile(__dirname + '/auth_info_baileys/creds.json', data, () => {
+fs.writeFile(__dirname + '/connection/creds.json', data, () => {
 console.log("SESSION DOWNLOADED COMPLETED ✅")
 })})}
 
@@ -49,7 +49,7 @@ const port = process.env.PORT || 9090;
 
 async function connectToWA() {
 console.log("CONNECTING ANSAR-MD BOT🧬...");
-const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
+const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/connection/')
 var { version } = await fetchLatestBaileysVersion()
 
 const conn = makeWASocket({
