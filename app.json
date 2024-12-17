@@ -1,7 +1,7 @@
 {
   "name": "ANSAR MD",
   "description": "JavaScript Whatsapp Bot By UD Team",
-  "logo": "https://github.com/Um4r719.png",
+  "logo": "https://i.imghippo.com/files/neA8167vE.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://github.com/Um4r719.png"
+      "value": "https://i.imghippo.com/files/neA8167vE.jpg"
     }, 
     
     "ALIVE_MSG": {
