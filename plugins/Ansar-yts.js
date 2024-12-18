@@ -34,6 +34,6 @@ mesaj += ' *🖲️' + video.title + '*\n🔗 ' + video.url + '\n\n'
 await conn.sendMessage(from , { text:  mesaj }, { quoted: mek } )
 } catch (e) {
     l(e)
-  reply('*Error !!*')
+  reply('*ERROR FIX SOON!!*')
 }
 });
