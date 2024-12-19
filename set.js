@@ -4,7 +4,7 @@ const fs = require('fs'),
       dotenv = fs.existsSync('config.env') ? require('dotenv').config({ path: '/.env' }) : undefined,
       convertToBool = (text, fault = 'true') => text === fault;
 
-global.caption = "*©𝟐𝟎𝟐𝟒 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 𝐕𝟓*"; // Input Yours custom...(Maintain font for Flow)
+global.caption = "*©𝟐𝟎𝟐𝟒 𝐀𝐍𝐒𝐀𝐑-𝐌𝐃 𝐓𝐄𝐂𝐇 𝐕𝟏*"; // Input Yours custom...(Maintain font for Flow)
 global.api = "https://api.giftedtech.my.id/api"; // DO NOT Change this...
 global.session = "https://pair1.giftedtech.my.id"; // DO NOT Change this....
 global.footer = "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ*"; // Input Yours custom...(Maintain font for Flow)
